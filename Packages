@@ -1,0 +1,39 @@
+Package: nodelete-net.angelxwind.appsyncunified
+Version: 84.0
+Section: Tweaks
+Maintainer: HRZ123 <eoeoeoeo@email.com>
+Depends: firmware (>5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 42058
+MD5sum: 979c1973c503b9eb4e9e1151d97c4421
+Description: AppSync Unified, backed up here.
+Name: AppSync Unified
+Author: Karen/あけみ <noemailforyousorry@nada.com>
+Depiction: https://web.archive.org/web/20230822142239/http://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Package: vn.gsm.homebuttonsafari
+Version: 1.0
+Section: Tweaks
+Maintainer: HRZ123 <eoeoeoeo@email.com>
+Depends: firmware (>5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/vn.gsm.homebuttonsafari.deb
+Size: 42058
+MD5sum: 199185b7df43fb9ad6ffc778946f8923
+Description: Adds a home button to Safari, works seamlessly with Safari Home Page. Allows you to set your home page in the settings app or if Safari Home Page is installed then it will use that home page. No new icons are added to the homescreen. Configure options from Settings app.
+Name: Home Button In Safari
+Author: Fr0zen Sun
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=homebuttonsafariData
+Package: vn.gsm.openvpn
+Version: 1.1.4
+Section: VPN
+Maintainer: HRZ123 <eoeoeoeo@email.com>
+Depends: openssl, network-cmds, coreutils, mobilesubstrate, libstatusbar
+Architecture: iphoneos-arm
+Filename: ./debs/vn.gsm.openvpn.deb
+Size: 1278000
+MD5sum: 97b0feee64e4872a9d12004522dfba26
+Description: OpenVPN client for iPhone/iPad.
+Name: GuizmOVPN
+Author: Guizmo <noemailforyousorry@nada.com>
+Depiction: https://cydia.saurik.com/info/com.guizmo.openvpn/
